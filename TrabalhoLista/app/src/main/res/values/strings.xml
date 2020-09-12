@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Trabalho Lista</string>
+    <string-array name="motocicle_and_cars">
+        <item>Bugatti</item>
+        <item>Corolla</item>
+        <item>Corolla</item>
+        <item>HB 20</item>
+        <item>Onix</item>
+        <item>Bros</item>
+        <item>CB 1000</item>
+        <item>Fazer</item>
+        <item>Pop</item>
+        <item>XT 660</item>
+    </string-array>
+    <string-array name="description">
+        <item>Carro</item>
+        <item>Carro</item>
+        <item>Carro</item>
+        <item>Carro</item>
+        <item>Carro</item>
+        <item>Moto</item>
+        <item>Moto</item>
+        <item>Moto</item>
+        <item>Moto</item>
+        <item>Moto</item>
+    </string-array>
+</resources>
