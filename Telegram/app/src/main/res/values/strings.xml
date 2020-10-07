@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Telegram</string>
+    <string-array name="names">
+        <item>Marcos Rodrigues</item>
+        <item>João Pedro</item>
+        <item>Ricardo Oliveira</item>
+        <item>Ana Carolina</item>
+        <item>Gabriele Nunes</item>
+        <item>Evandro Silva</item>
+        <item>Pietra Silveira</item>
+        <item>Valentina Souza</item>
+        <item>Ruan Oliveira</item>
+        <item>Joana Silva</item>
+    </string-array>
+    <string-array name="description">
+        <item>Koe mano</item>
+        <item>Partiu futebol ?</item>
+        <item>Video</item>
+        <item>Vamos sair ?</item>
+        <item>Já viu o filme ?</item>
+        <item>Vamos pescar ?</item>
+        <item>Estou indo pra sua casa</item>
+        <item>Já jantou ?</item>
+        <item>Estou chegando do trabalho</item>
+        <item>Cheguei agora</item>
+    </string-array>
+    <string-array name="hour">
+        <item>09:50</item>
+        <item>21:00</item>
+        <item>10:00</item>
+        <item>11:50</item>
+        <item>12:50</item>
+        <item>14:00</item>
+        <item>17:40</item>
+        <item>19:00</item>
+        <item>20:50</item>
+        <item>22:50</item>
+    </string-array>
+</resources>
