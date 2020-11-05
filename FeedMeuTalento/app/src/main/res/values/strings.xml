@@ -1,0 +1,8 @@
+ <resources>
+        <string name="app_name">Feed</string>
+        <string-array name="profile_name">
+            <item>Pedro</item>
+            <item>Carlos</item>
+            <item>Maria</item>
+        </string-array>
+    </resources>
