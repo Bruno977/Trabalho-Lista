@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "606345016452",
+    "firebase_url": "https://tough-fact-273102.firebaseio.com",
+    "project_id": "tough-fact-273102",
+    "storage_bucket": "tough-fact-273102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606345016452:android:fd6b9745409285f9c67ed1",
+        "android_client_info": {
+          "package_name": "com.bruno.meutalento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606345016452-08hcmgs29nf1lvco7joacqt7qdd39bt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bruno.meutalento",
+            "certificate_hash": "2b88933f2d7ca5bac7a155d0b49036bcff57c14f"
+          }
+        },
+        {
+          "client_id": "606345016452-stq05bkpog6vad2aahqttu0n6b069d1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXauFb9M1_SuLYIoevCETu8BHSVQlDLR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606345016452-stq05bkpog6vad2aahqttu0n6b069d1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

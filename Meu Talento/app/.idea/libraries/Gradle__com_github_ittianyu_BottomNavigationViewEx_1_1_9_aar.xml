@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ittianyu:BottomNavigationViewEx:1.1.9@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/71e5c78609d6db43974e41dd89256a7a7c19b19b/output/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.android/build-cache/71e5c78609d6db43974e41dd89256a7a7c19b19b/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/71e5c78609d6db43974e41dd89256a7a7c19b19b/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
